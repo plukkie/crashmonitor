@@ -1,2 +1,2 @@
 # crashmonitor
-This tool monitors if custom applications applications crashed
+This tool monitors if custom applications crashed
